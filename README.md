@@ -2,7 +2,7 @@
 <h3>NAME:S V SHADHANASHREE </h3>
 <h3>REGISTER NO:212223230202</h3>
 <h3>EX. NO:06</h3>
-<h3>DATE:17-05-2025</h3>
+<h3>DATE:9-11-2025</h3>
 <h1> <align=center> MATRIX TRANSPOSITION USING SHARED MEMORY </h3>
   Implement Matrix transposition using GPU Shared memory.</h3>
 
